@@ -1,10 +1,8 @@
-### Olá 👋
+### Olá a todos!👋
 
 
-**willian-brandao/willian-brandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Willian Brandão eu sou aficionado por tecnlogia. Atualmente, exerço a função Network Center Analyst mas conhecido como NOC. Tenho 3 anos de experiência na área, o que me faz acreditar que eu posso ajudar a resolver qualquer problema que eu possa ter contato dentro da área de redes de computadores.
 <!--
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
