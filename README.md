@@ -12,5 +12,5 @@ Meu nome é Willian Brandão eu sou aficionado por tecnlogia. Atualmente, exerç
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Expertise 
+### Expertise :floppy_disk:
 
