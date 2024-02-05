@@ -1,6 +1,5 @@
 ### Olá a todos!👋
 
-
 Meu nome é Willian Brandão eu sou aficionado por tecnlogia. Atualmente, exerço a função Network Center Analyst mas conhecido como NOC. Tenho 3 anos de experiência na área, o que me faz acreditar que eu posso ajudar a resolver qualquer problema que eu possa ter contato dentro da área de redes de computadores.
 <!--
 - 🔭 I’m currently working on ...
@@ -14,3 +13,7 @@ Meu nome é Willian Brandão eu sou aficionado por tecnlogia. Atualmente, exerç
 -->
 ### Expertise :floppy_disk:
 
+:clipboard: Com familiaridade para resolução de problemas e análise de dados para manter a qualidade de sistemas sempre fluindo da melhor forma possível tenho trabalhado como Anlista de NOC. Basicamente, minha atribuições estão relacionadas a monitoramento, análise de consumo de banda de links de fornecedores, monitoramento de infraestrutura interna, gerenciar equipamentos análise de logs e reporte de incidentes. 
+Fora do escopo de trabalho, tenho pesquisad com frequência sobre a área de cibersegurança e pretendo mudar para a área de blue team, especificamente, análise de segurança.
+
+Sou graduando no curso de Bacharelado de Sistemas de Informação no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Cefet/RJ.  Sou membro do Centro Acadêmico - CASINF como Diretor de Eventos, atuando como fomentador de eventos que envolvam a faculdade e o mercado de trabalho e atividades diversas dentro do campus. Exerço a função de Suporte de Redes Jr. na empresa Frionline, onde sou responsável por monitorar os equipamentos que compõem a infraestrutura da empresa, buscando auxiliar a encontrar soluções em casos de problemas e sou responsável por prestar suporte aos demais setores, dando-lhes informações pertinentes para que todos os processos da empresa sejam bem executados.
