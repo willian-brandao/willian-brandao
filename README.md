@@ -11,10 +11,17 @@ Meu nome é Willian Brandão eu sou aficionado por tecnlogia. Atualmente, exerç
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Expertise :floppy_disk:
+### Experiência 💾
 
 :clipboard: Com familiaridade para resolução de problemas e análise de dados para manter a qualidade de sistemas sempre fluindo da melhor forma possível tenho trabalhado como Anlista de NOC. Basicamente, minha atribuições estão relacionadas a monitoramento, análise de consumo de banda de links de fornecedores, monitoramento de infraestrutura interna, gerenciar equipamentos análise de logs e reporte de incidentes. 
 
 :clipboard: Fora do escopo de trabalho, tenho pesquisado com frequência sobre a área de cibersegurança e pretendo mudar para a área de blue team, especificamente, análise de segurança.
 
-Sou graduando no curso de Bacharelado de Sistemas de Informação no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Cefet/RJ.  Sou membro do Centro Acadêmico - CASINF como Diretor de Eventos, atuando como fomentador de eventos que envolvam a faculdade e o mercado de trabalho e atividades diversas dentro do campus. Exerço a função de Suporte de Redes Jr. na empresa Frionline, onde sou responsável por monitorar os equipamentos que compõem a infraestrutura da empresa, buscando auxiliar a encontrar soluções em casos de problemas e sou responsável por prestar suporte aos demais setores, dando-lhes informações pertinentes para que todos os processos da empresa sejam bem executados.
+### Área Acadêmica 💻
+Estou me graduando em  Bacharelado de Sistemas de Informação no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Cefet/RJ.
+Tenho exercido o o cargo de Vice-Presisdente no Centro Acadêmico - CASINF atuando como fomentador de atividades dentro do campus da universidade que envolvam todo o corpo discente, assim mantendo os laços estreitados com o mercado de trabalho. 
+
+### Principais habilidades técnicas 👷
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
