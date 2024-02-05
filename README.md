@@ -21,7 +21,7 @@ Meu nome é Willian Brandão eu sou aficionado por tecnlogia. Atualmente, exerç
 Estou me graduando em  Bacharelado de Sistemas de Informação no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Cefet/RJ.
 Tenho exercido o o cargo de Vice-Presisdente no Centro Acadêmico - CASINF atuando como fomentador de atividades dentro do campus da universidade que envolvam todo o corpo discente, assim mantendo os laços estreitados com o mercado de trabalho. 
 
-### Principais habilidades técnicas 👷
+### Habilidades técnicas 👷
 #### Sistemas Operacionais 🖥️
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
