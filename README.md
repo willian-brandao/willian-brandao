@@ -1,6 +1,6 @@
 ### Olá a todos!👋
 
-Meu nome é Willian Brandão eu sou aficionado por tecnlogia. Atualmente, exerço a função Network Center Analyst mas conhecido como NOC. Tenho 3 anos de experiência na área, o que me faz acreditar que eu posso ajudar a resolver qualquer problema que eu possa ter contato dentro da área de redes de computadores.
+Meu nome é Willian Brandão eu sou aficionado por tecnlogia. Atualmente, exerço a função Network Center Analyst mas conhecido como NOC. Estou atuando desde 2020 na área de tecnologia, o que me faz acreditar que eu posso ajudar a resolver qualquer problema que eu possa ter contato dentro da área de redes de computadores.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
