@@ -1,43 +1,69 @@
-### Olá a todos!👋
+Olá a todos!👋
 
-Meu nome é Willian Brandão eu sou aficionado por tecnlogia. Atualmente, exerço a função Network Center Analyst mas conhecido como NOC. Estou atuando desde 2020 na área de tecnologia, o que me faz acreditar que eu posso ajudar a resolver qualquer problema que eu possa ter contato dentro da área de redes de computadores.
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Experiência 💾
+Meu nome é Willian Brandão e sou aficionado por tecnologia. Atualmente, exerço a função de Network Center Analyst (NOC). Atuo na área de tecnologia desde 2020, o que me faz acreditar que posso ajudar a resolver qualquer problema dentro do escopo de redes de computadores e monitoramento de infraestrutura.
 
-:clipboard: Com familiaridade para resolução de problemas e análise de dados para manter a qualidade de sistemas sempre fluindo da melhor forma possível tenho trabalhado como Anlista de NOC. Basicamente, minha atribuições estão relacionadas a monitoramento, análise de consumo de banda de links de fornecedores, monitoramento de infraestrutura interna, gerenciar equipamentos análise de logs e reporte de incidentes. 
+Experiência 💾
 
-:clipboard: Fora do escopo de trabalho, tenho pesquisado com frequência sobre a área de cibersegurança e pretendo mudar para a área de blue team, especificamente, análise de segurança.
+:clipboard: Com forte habilidade em resolução de problemas e análise de dados, trabalho garantindo a qualidade e disponibilidade de sistemas e infraestrutura. Minhas principais atribuições incluem:
 
-### Área Acadêmica 💻
-Estou me graduando em  Bacharelado de Sistemas de Informação no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Cefet/RJ.
-Tenho exercido o o cargo de Vice-Presisdente no Centro Acadêmico - CASINF atuando como fomentador de atividades dentro do campus da universidade que envolvam todo o corpo discente, assim mantendo os laços estreitados com o mercado de trabalho. 
+Monitoramento e análise de redes para garantir a estabilidade dos serviços.
 
-### Habilidades técnicas 👷
-#### Sistemas Operacionais 🖥️
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-#### Banco de Dados 🖥️
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-#### IDEs 🖥️
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-#### Linguagens 🖥️
-  ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)	
-  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-  
+Gerenciamento de infraestrutura interna e equipamentos.
 
-### Idiomas 📓
-1. Português
-2. Inglês
-3. Espanhol 
+Análise de logs e detecção de incidentes.
 
+Monitoramento de consumo de banda de links de fornecedores.
+
+Reporte e resposta a incidentes.
+
+:clipboard: Fora do escopo de trabalho, estou sempre pesquisando sobre cibersegurança, com foco em blue team e análise de segurança, almejando uma transição para essa área no futuro.
+
+Formação Acadêmica 💻
+
+🎓 Bacharelando em Sistemas de Informação no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Cefet/RJ.
+
+🔹 Atuei como Vice-Presidente do Centro Acadêmico CASINF, organizando eventos e fomentando a interação entre alunos e o mercado de trabalho.
+
+Habilidades Técnicas 👷
+
+🖥️ Sistemas Operacionais
+
+
+
+
+🗄️ Redes e Segurança
+
+
+
+
+🖥️ Banco de Dados
+
+
+
+🖥️ IDEs
+
+
+
+🖥️ Linguagens de Programação & Scripting
+
+
+
+
+
+
+Idiomas 📓
+
+Português - Nativo
+
+Inglês - Intermediário (B2) em progresso
+
+Espanhol - Básico
+
+Francês - Aprendendo
+
+Italiano - Aprendendo
+
+📫 Entre em contato comigo:
+
+
+🚀 Sempre aprendendo e buscando novos desafios! 🔥
