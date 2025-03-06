@@ -28,28 +28,13 @@ Habilidades Técnicas 👷
 
 🖥️ Sistemas Operacionais
 
-
-
-
 🗄️ Redes e Segurança
-
-
-
 
 🖥️ Banco de Dados
 
-
-
 🖥️ IDEs
 
-
-
 🖥️ Linguagens de Programação & Scripting
-
-
-
-
-
 
 Idiomas 📓
 
@@ -57,13 +42,9 @@ Português - Nativo
 
 Inglês - Intermediário (B2) em progresso
 
-Espanhol - Básico
+Espanhol - Aprendendo
 
-Francês - Aprendendo
-
-Italiano - Aprendendo
-
-📫 Entre em contato comigo:
+📫 Entre em contato comigo: willianramos.wrk@gmail.com
 
 
 🚀 Sempre aprendendo e buscando novos desafios! 🔥
